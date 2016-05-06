@@ -5,7 +5,7 @@ package com.lawdogstudio.kyle.networkingwithvolley;
  * to build.gradle(Module: app) dependency and
  * <uses-permission android:name="android.permission.INTERNET"/> in manifest above <application
  * Along with <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/> to check
- * network connection
+ * network connection.
  */
 
 import android.content.Context;
