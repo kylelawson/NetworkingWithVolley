@@ -32,6 +32,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
 
     //Setup variables and widgets
+    //This is Best Buy's search API key for me, use your own key after registering with Best Buy
     final String bbyAPIKey = "8uhwa4p7xe34pqz6u3eqj3yq";
     String jsonResponse = "";
 
