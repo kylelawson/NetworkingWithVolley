@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     //Setup url to be used to retrieve data
     String url = "https://api.bestbuy.com/v1/stores(area(94510,100))?format=json&show=storeId,storeType,name&apiKey=" + bbyAPIKey;
 
-    ArrayList<String> storeArray = new ArrayList<String>();
+    ArrayList<String> storeArray = new ArrayList<>();
 
     ListView mListView;
 
